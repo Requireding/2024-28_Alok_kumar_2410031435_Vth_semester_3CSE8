@@ -5,6 +5,8 @@ This repository contains the final report, presentation, and project links for m
 ## 🎓 Student Profile
 * **Name:** Alok Kumar
 * **Program:** B.Tech in Artificial Intelligence and Machine Learning
+* **section:** 3CSE8
+* **Roll number:** 2410031435
 * **University:** IILM University 
 
 ## 🏢 Internship Details
